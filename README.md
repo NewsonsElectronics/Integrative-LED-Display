@@ -13,8 +13,8 @@ What you’ll learn:
 For detailed instructions on how to build this project check out my instructables here:
 https://www.instructables.com/INTERACTIVE-LED-WALL-CLOCK/
 
-For detailed on how the wall works check out here. 
-https://youtu.be/bGyi0JpdRvc
+For details on how build the LED display check out here. 
+[https://youtu.be/bGyi0JpdRvc](https://youtu.be/6rFOdW3i-B0)
 
 For details on how the code works check out here.
 https://youtu.be/bGyi0JpdRvc
